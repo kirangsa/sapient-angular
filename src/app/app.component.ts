@@ -9,10 +9,18 @@ export class AppComponent {
   name = 'I am kiran';
 
   // Create an interface for user
-  user = {
-    firstName: 'kiran',
-    lastName: 'Gopal',
-    gender: 'Male',
-    dob: 'Wed Sep 08 2021 12:52:55 GMT+0530 (India Standard Time)',
-  };
+  user = [
+    {
+      firstName: 'kiran',
+      lastName: 'Gopal',
+      gender: 'Male',
+      dob: 'Wed Sep 08 2021 12:52:55 GMT+0530 (India Standard Time)',
+    },
+    {
+      firstName: 'Arun',
+      lastName: 'Gopal',
+      gender: 'Male',
+      dob: 'Wed Sep 08 2021 12:52:55 GMT+0530 (India Standard Time)',
+    },
+  ];
 }
