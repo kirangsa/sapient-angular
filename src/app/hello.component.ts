@@ -5,14 +5,15 @@ import { Component, Input } from '@angular/core';
   template: `
     <h1>Hello {{ name }}!</h1>
     <p>I am a FE developer in sapient</p>
+    <button>Add Hero</button>
   `,
   styles: [
     `
       h1 {
         font-family: Lato;
       }
-    `
-  ]
+    `,
+  ],
 })
 export class HelloComponent {
   @Input() name: string;
