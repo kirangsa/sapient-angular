@@ -6,9 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css'],
 })
 export class AppComponent {
-  name = 'I am kiran';
-
-  // Create an interface for user
   user = [
     {
       firstName: 'Kiran',
