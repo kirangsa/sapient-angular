@@ -16,7 +16,6 @@ import { Component, Input } from '@angular/core';
   ],
 })
 export class HelloComponent {
-  @Input() name: string;
 
   abc() {
     console.log('Hai I am abc function');
