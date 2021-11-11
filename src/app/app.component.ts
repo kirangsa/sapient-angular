@@ -9,12 +9,12 @@ export class AppComponent {
   user = [
     {
       firstName: 'Sarad',
-      lastName: 'Gopal',
+      lastName: 'Vishwakarma',
       gender: 'Male',
       dob: 'Wed Sep 08 2021 12:52:55 GMT+0530 (India Standard Time)',
     },
     {
-      firstName: 'Vishwakarma',
+      firstName: 'Kiran ',
       lastName: 'Gopal',
       gender: 'Male',
       dob: 'Wed Sep 08 2021 12:52:55 GMT+0530 (India Standard Time)',
