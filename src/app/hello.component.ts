@@ -3,8 +3,8 @@ import { Component, Input } from '@angular/core';
 @Component({
   selector: 'hello',
   template: `
-    <h1>Hello I am kiran !</h1>
-    <p>I am a FE developer in sapient</p>
+    <h1>Hello Netra !</h1>
+    <p>Welcome to sapient interview</p>
     <button>Add Hero</button>
   `,
   styles: [
