@@ -3,7 +3,7 @@ import { Component, Input } from '@angular/core';
 @Component({
   selector: 'hello',
   template: `
-    <h1>Hello Netra !</h1>
+    <h1>Anand Mishra !</h1>
     <p>Welcome to sapient interview</p>
     <button>Add Hero</button>
   `,
@@ -16,7 +16,6 @@ import { Component, Input } from '@angular/core';
   ],
 })
 export class HelloComponent {
-
   abc() {
     console.log('Hai I am abc function');
   }
