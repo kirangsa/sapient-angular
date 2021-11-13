@@ -6,10 +6,11 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css'],
 })
 export class AppComponent {
+  name;
   user = [
     {
-      firstName: 'Sarad',
-      lastName: 'Vishwakarma',
+      firstName: 'Netra',
+      lastName: 'Rangaswamy',
       gender: 'Male',
       dob: 'Wed Sep 08 2021 12:52:55 GMT+0530 (India Standard Time)',
     },
