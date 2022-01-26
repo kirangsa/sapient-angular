@@ -9,8 +9,8 @@ export class AppComponent {
   name;
   user = [
     {
-      firstName: 'Sujana ',
-      lastName: 'Devi',
+      firstName: 'Aman ',
+      lastName: 'Lad',
       gender: 'Male',
       dob: 'Wed Sep 08 2021 12:52:55 GMT+0530 (India Standard Time)',
     },
