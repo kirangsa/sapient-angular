@@ -4,17 +4,14 @@ import { Component, Input } from '@angular/core';
   selector: 'hello',
   template: `
     <h1>Welcome to sapient interview</h1>
-    <h2>Rahul Rajshekhar</h2>
-    <p></p>
+    <h2>Jaykumar Chaudhary</h2>
+
+    <br>
+    <p>******* Heros will be displayed Here ********</p>
+    <br>
+
     <button>Add Hero</button>
   `,
-  styles: [
-    `
-      h1 {
-        font-family: Lato;
-      }
-    `,
-  ],
 })
 export class HelloComponent {
   abc() {
