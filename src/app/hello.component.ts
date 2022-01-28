@@ -4,9 +4,7 @@ import { Component, Input } from '@angular/core';
   selector: 'hello',
   template: `
     <h1>Welcome to sapient interview</h1>
-    <h2>Jaykumar Chaudhary</h2>
 
-    <br>
     <p>******* Heros will be displayed Here ********</p>
     <br>
 
