@@ -8,7 +8,7 @@ import { Component, Input } from '@angular/core';
     <p>******* Heros will be displayed Here ********</p>
     <br>
 
-    <button>Add Hero</button>
+    <button>Show Hero</button>
   `,
 })
 export class HelloComponent {
