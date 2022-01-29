@@ -5,10 +5,10 @@ import { Component, Input } from '@angular/core';
   template: `
     <h1>Welcome to sapient interview</h1>
 
-    <p>******* Heros will be displayed Here ********</p>
+    <p>******* Users will be displayed Here ********</p>
     <br>
 
-    <button>Show Hero</button>
+    <button>Show User</button>
   `,
 })
 export class HelloComponent {
